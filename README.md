@@ -1,6 +1,6 @@
 # Olá, Mundo!
  Primeiro Repositório 
 
- Repositório criado durante uma aula do Curso em Video!!
+ Repositório criado durante uma aula do Curso em Video!
 
 
